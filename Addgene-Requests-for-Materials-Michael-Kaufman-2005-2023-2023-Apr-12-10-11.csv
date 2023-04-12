@@ -1,4 +1,7 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Titia de Lange,Rockefeller University,UNITED STATES,04/03/2023
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Katalin Susztak,University of Pennsylvania,UNITED STATES,03/28/2023
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Chandra Choudhury,QIMR Berghofer Medical Research Institute,AUSTRALIA,03/22/2023
 175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Chad Pearson,University of Colorado Denver and Anschutz Medical Campus,UNITED STATES,03/17/2023
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Prof. Dr. Dr. Knut Stieger,Justus Liebig-Universitaet Giessen,GERMANY,03/09/2023
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Toru Takeo,Kumamoto University,JAPAN,03/09/2023
@@ -6,6 +9,8 @@ ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordere
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Titia de Lange,Rockefeller University,UNITED STATES,03/03/2023
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Uttiya Basu,Columbia University,UNITED STATES,03/01/2023
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Uttiya Basu,Columbia University,UNITED STATES,03/01/2023
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),KHAMLICHI AMINE,"CNRS UMR 5089, Institute of Pharmacology and Structural Biology (IPBS)",FRANCE,02/20/2023
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),KHAMLICHI AMINE,"CNRS UMR 5089, Institute of Pharmacology and Structural Biology (IPBS)",FRANCE,02/20/2023
 175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Dr. Deepak Chitkara,Birla Institute of Technology and Science (BITS),INDIA,02/15/2023
 159654,pX458-Ef1a-Cas9-H2B-GFP,Joe Corbo,Washington University in Saint Louis,UNITED STATES,01/30/2023
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Joe Corbo,Washington University in Saint Louis,UNITED STATES,01/30/2023
@@ -39,7 +44,7 @@ ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordere
 175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Babal Jha,Cleveland Clinic Foundation,UNITED STATES,09/07/2022
 175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Babal Jha,Cleveland Clinic Foundation,UNITED STATES,09/07/2022
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Babal Jha,Cleveland Clinic Foundation,UNITED STATES,09/07/2022
-175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),"Dan Roden, MD",Vanderbilt University and Medical Center,UNITED STATES,07/19/2022
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),"Dan Roden, MD",Vanderbilt University,UNITED STATES,07/19/2022
 159654,pX458-Ef1a-Cas9-H2B-GFP,Jennifer Fraser,University of Edinburgh,UNITED KINGDOM,07/18/2022
 159657,pX458-Ef1a-Cas9-GFP (gRNA: Ascl1-2),Jennifer Fraser,University of Edinburgh,UNITED KINGDOM,07/18/2022
 159658,pX458-Ef1a-Cas9-GFP (gRNA: Ascl1-3),Jennifer Fraser,University of Edinburgh,UNITED KINGDOM,07/18/2022
