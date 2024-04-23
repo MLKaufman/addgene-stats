@@ -1,4 +1,16 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Amber Mosley,Indiana University-Purdue University Indianapolis (IUPUI),UNITED STATES,04/17/2024
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Emma Chory,Duke University,UNITED STATES,04/12/2024
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Ruslan Medzhitov,Yale University,UNITED STATES,04/08/2024
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Ruslan Medzhitov,Yale University,UNITED STATES,04/08/2024
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Anoop Patel,Duke University,UNITED STATES,03/27/2024
+159654,pX458-Ef1a-Cas9-H2B-GFP,Wayne Crismani,St. Vincent's Institute,AUSTRALIA,03/21/2024
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Wayne Crismani,St. Vincent's Institute,AUSTRALIA,03/21/2024
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Aris Katzourakis,University of Oxford,UNITED KINGDOM,03/08/2024
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Aris Katzourakis,University of Oxford,UNITED KINGDOM,03/08/2024
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Gang Greg Wang,Duke University,UNITED STATES,03/04/2024
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Dr Shah Ali,Columbia University,UNITED STATES,02/14/2024
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Nicola Smart,University of Oxford,UNITED KINGDOM,01/30/2024
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Mark Emerson,The City University of New York (CUNY) on behalf of City College of New York,UNITED STATES,01/18/2024
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Tomasz Nowakowski,"University of California, San Francisco (UCSF)",UNITED STATES,01/11/2024
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Elvir Becirovic,Zurich University Hospital,SWITZERLAND,01/10/2024
