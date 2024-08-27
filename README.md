@@ -25,7 +25,7 @@ md("# Total number of lab plasmids requested: {} as of {}.".format(number, last_
 
 
 
-# Total number of lab plasmids requested: 161 as of 06/19/2024.
+# Total number of lab plasmids requested: 167 as of 08/02/2024.
 
 
 
@@ -168,6 +168,60 @@ df
   <tbody>
     <tr>
       <th>0</th>
+      <td>175574</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
+      <td>Phillip Grote</td>
+      <td>Georg-Speyer-Haus</td>
+      <td>GERMANY</td>
+      <td>08/02/2024</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>159655</td>
+      <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
+      <td>Monica Vetter</td>
+      <td>University of Utah</td>
+      <td>UNITED STATES</td>
+      <td>07/23/2024</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>175574</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
+      <td>Anna Blakney</td>
+      <td>University of British Columbia</td>
+      <td>CANADA</td>
+      <td>07/11/2024</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>175573</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
+      <td>Tomasz Nowakowski</td>
+      <td>University of California, San Francisco (UCSF)</td>
+      <td>UNITED STATES</td>
+      <td>07/03/2024</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>175573</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
+      <td>Jean-Baptiste Demoulin</td>
+      <td>Universite Catholique de Louvain</td>
+      <td>BELGIUM</td>
+      <td>07/01/2024</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>175571</td>
+      <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
+      <td>Wang Jiong-Wei</td>
+      <td>National University of Singapore</td>
+      <td>SINGAPORE</td>
+      <td>06/24/2024</td>
+    </tr>
+    <tr>
+      <th>6</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Owen Donohoe</td>
@@ -176,7 +230,7 @@ df
       <td>06/19/2024</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>7</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Brian Button</td>
@@ -185,7 +239,7 @@ df
       <td>06/12/2024</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>8</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Sharad Ramanathan</td>
@@ -194,7 +248,7 @@ df
       <td>05/24/2024</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>9</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Roy Parker</td>
@@ -203,7 +257,7 @@ df
       <td>05/24/2024</td>
     </tr>
     <tr>
-      <th>4</th>
+      <th>10</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>hongfeng Ruan</td>
@@ -212,7 +266,7 @@ df
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>11</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Michael Pacold</td>
@@ -221,7 +275,7 @@ df
       <td>04/30/2024</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>12</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Severin Uebbing</td>
@@ -230,7 +284,7 @@ df
       <td>04/23/2024</td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>13</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Amber Mosley</td>
@@ -239,7 +293,7 @@ df
       <td>04/17/2024</td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>14</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Emma Chory</td>
@@ -248,7 +302,7 @@ df
       <td>04/12/2024</td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>15</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Ruslan Medzhitov</td>
@@ -257,7 +311,7 @@ df
       <td>04/08/2024</td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>16</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Ruslan Medzhitov</td>
@@ -266,7 +320,7 @@ df
       <td>04/08/2024</td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>17</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Anoop Patel</td>
@@ -275,7 +329,7 @@ df
       <td>03/27/2024</td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>18</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Wayne Crismani</td>
@@ -284,7 +338,7 @@ df
       <td>03/21/2024</td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>19</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Wayne Crismani</td>
@@ -293,7 +347,7 @@ df
       <td>03/21/2024</td>
     </tr>
     <tr>
-      <th>14</th>
+      <th>20</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Aris Katzourakis</td>
@@ -302,7 +356,7 @@ df
       <td>03/08/2024</td>
     </tr>
     <tr>
-      <th>15</th>
+      <th>21</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Aris Katzourakis</td>
@@ -311,7 +365,7 @@ df
       <td>03/08/2024</td>
     </tr>
     <tr>
-      <th>16</th>
+      <th>22</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Gang Greg Wang</td>
@@ -320,7 +374,7 @@ df
       <td>03/04/2024</td>
     </tr>
     <tr>
-      <th>17</th>
+      <th>23</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Dr Shah Ali</td>
@@ -329,7 +383,7 @@ df
       <td>02/14/2024</td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>24</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Nicola Smart</td>
@@ -338,7 +392,7 @@ df
       <td>01/30/2024</td>
     </tr>
     <tr>
-      <th>19</th>
+      <th>25</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Mark Emerson</td>
@@ -347,7 +401,7 @@ df
       <td>01/18/2024</td>
     </tr>
     <tr>
-      <th>20</th>
+      <th>26</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Tomasz Nowakowski</td>
@@ -356,7 +410,7 @@ df
       <td>01/11/2024</td>
     </tr>
     <tr>
-      <th>21</th>
+      <th>27</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Elvir Becirovic</td>
@@ -365,7 +419,7 @@ df
       <td>01/10/2024</td>
     </tr>
     <tr>
-      <th>22</th>
+      <th>28</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Jorge Garcia-Marques</td>
@@ -374,7 +428,7 @@ df
       <td>11/27/2023</td>
     </tr>
     <tr>
-      <th>23</th>
+      <th>29</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Jacques Robert</td>
@@ -383,7 +437,7 @@ df
       <td>10/18/2023</td>
     </tr>
     <tr>
-      <th>24</th>
+      <th>30</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Fang Mu</td>
@@ -392,7 +446,7 @@ df
       <td>10/08/2023</td>
     </tr>
     <tr>
-      <th>25</th>
+      <th>31</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Phillip Grote</td>
@@ -401,7 +455,7 @@ df
       <td>09/01/2023</td>
     </tr>
     <tr>
-      <th>26</th>
+      <th>32</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Huashan Peng</td>
@@ -410,7 +464,7 @@ df
       <td>08/25/2023</td>
     </tr>
     <tr>
-      <th>27</th>
+      <th>33</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Huashan Peng</td>
@@ -419,7 +473,7 @@ df
       <td>08/25/2023</td>
     </tr>
     <tr>
-      <th>28</th>
+      <th>34</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Severin Gylstorff</td>
@@ -428,7 +482,7 @@ df
       <td>08/25/2023</td>
     </tr>
     <tr>
-      <th>29</th>
+      <th>35</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Severin Gylstorff</td>
@@ -437,7 +491,7 @@ df
       <td>08/25/2023</td>
     </tr>
     <tr>
-      <th>30</th>
+      <th>36</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Swapan Nath</td>
@@ -446,7 +500,7 @@ df
       <td>08/11/2023</td>
     </tr>
     <tr>
-      <th>31</th>
+      <th>37</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Jason Watts</td>
@@ -455,7 +509,7 @@ df
       <td>08/08/2023</td>
     </tr>
     <tr>
-      <th>32</th>
+      <th>38</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Jason Watts</td>
@@ -464,7 +518,7 @@ df
       <td>08/08/2023</td>
     </tr>
     <tr>
-      <th>33</th>
+      <th>39</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Gabriel Leprivier</td>
@@ -473,7 +527,7 @@ df
       <td>07/28/2023</td>
     </tr>
     <tr>
-      <th>34</th>
+      <th>40</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Dan-Avi Landau</td>
@@ -482,7 +536,7 @@ df
       <td>07/27/2023</td>
     </tr>
     <tr>
-      <th>35</th>
+      <th>41</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Andreas Trumpp</td>
@@ -491,7 +545,7 @@ df
       <td>07/26/2023</td>
     </tr>
     <tr>
-      <th>36</th>
+      <th>42</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Deborah Stroka</td>
@@ -500,7 +554,7 @@ df
       <td>07/11/2023</td>
     </tr>
     <tr>
-      <th>37</th>
+      <th>43</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Brian Clark</td>
@@ -509,7 +563,7 @@ df
       <td>06/07/2023</td>
     </tr>
     <tr>
-      <th>38</th>
+      <th>44</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Eric Goetzman</td>
@@ -518,7 +572,7 @@ df
       <td>06/01/2023</td>
     </tr>
     <tr>
-      <th>39</th>
+      <th>45</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Eric Goetzman</td>
@@ -527,7 +581,7 @@ df
       <td>06/01/2023</td>
     </tr>
     <tr>
-      <th>40</th>
+      <th>46</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>David Landeira Frías</td>
@@ -536,7 +590,7 @@ df
       <td>05/22/2023</td>
     </tr>
     <tr>
-      <th>41</th>
+      <th>47</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>David Landeira Frías</td>
@@ -545,7 +599,7 @@ df
       <td>05/22/2023</td>
     </tr>
     <tr>
-      <th>42</th>
+      <th>48</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Scott E. Fraser</td>
@@ -554,7 +608,7 @@ df
       <td>05/11/2023</td>
     </tr>
     <tr>
-      <th>43</th>
+      <th>49</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Harveer Dev Singh</td>
@@ -563,7 +617,7 @@ df
       <td>05/09/2023</td>
     </tr>
     <tr>
-      <th>44</th>
+      <th>50</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Kellie Lucken</td>
@@ -572,7 +626,7 @@ df
       <td>05/05/2023</td>
     </tr>
     <tr>
-      <th>45</th>
+      <th>51</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Kellie Lucken</td>
@@ -581,7 +635,7 @@ df
       <td>05/05/2023</td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>52</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Magda Bienko</td>
@@ -590,7 +644,7 @@ df
       <td>04/27/2023</td>
     </tr>
     <tr>
-      <th>47</th>
+      <th>53</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Attila Aszodi</td>
@@ -599,7 +653,7 @@ df
       <td>04/25/2023</td>
     </tr>
     <tr>
-      <th>48</th>
+      <th>54</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Attila Aszodi</td>
@@ -608,7 +662,7 @@ df
       <td>04/25/2023</td>
     </tr>
     <tr>
-      <th>49</th>
+      <th>55</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Nham Tran</td>
@@ -617,7 +671,7 @@ df
       <td>04/18/2023</td>
     </tr>
     <tr>
-      <th>50</th>
+      <th>56</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Titia de Lange</td>
@@ -626,7 +680,7 @@ df
       <td>04/03/2023</td>
     </tr>
     <tr>
-      <th>51</th>
+      <th>57</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Katalin Susztak</td>
@@ -635,7 +689,7 @@ df
       <td>03/28/2023</td>
     </tr>
     <tr>
-      <th>52</th>
+      <th>58</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Chandra Choudhury</td>
@@ -644,7 +698,7 @@ df
       <td>03/22/2023</td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>59</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Chad Pearson</td>
@@ -653,7 +707,7 @@ df
       <td>03/17/2023</td>
     </tr>
     <tr>
-      <th>54</th>
+      <th>60</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Prof. Dr. Dr. Knut Stieger</td>
@@ -662,7 +716,7 @@ df
       <td>03/09/2023</td>
     </tr>
     <tr>
-      <th>55</th>
+      <th>61</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Toru Takeo</td>
@@ -671,7 +725,7 @@ df
       <td>03/09/2023</td>
     </tr>
     <tr>
-      <th>56</th>
+      <th>62</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>David Bartel</td>
@@ -680,7 +734,7 @@ df
       <td>03/07/2023</td>
     </tr>
     <tr>
-      <th>57</th>
+      <th>63</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Titia de Lange</td>
@@ -689,7 +743,7 @@ df
       <td>03/03/2023</td>
     </tr>
     <tr>
-      <th>58</th>
+      <th>64</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Uttiya Basu</td>
@@ -698,7 +752,7 @@ df
       <td>03/01/2023</td>
     </tr>
     <tr>
-      <th>59</th>
+      <th>65</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Uttiya Basu</td>
@@ -707,7 +761,7 @@ df
       <td>03/01/2023</td>
     </tr>
     <tr>
-      <th>60</th>
+      <th>66</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>KHAMLICHI AMINE</td>
@@ -716,7 +770,7 @@ df
       <td>02/20/2023</td>
     </tr>
     <tr>
-      <th>61</th>
+      <th>67</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>KHAMLICHI AMINE</td>
@@ -725,7 +779,7 @@ df
       <td>02/20/2023</td>
     </tr>
     <tr>
-      <th>62</th>
+      <th>68</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Dr. Deepak Chitkara</td>
@@ -734,7 +788,7 @@ df
       <td>02/15/2023</td>
     </tr>
     <tr>
-      <th>63</th>
+      <th>69</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Joe Corbo</td>
@@ -743,7 +797,7 @@ df
       <td>01/30/2023</td>
     </tr>
     <tr>
-      <th>64</th>
+      <th>70</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Joe Corbo</td>
@@ -752,7 +806,7 @@ df
       <td>01/30/2023</td>
     </tr>
     <tr>
-      <th>65</th>
+      <th>71</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Joe Corbo</td>
@@ -761,7 +815,7 @@ df
       <td>01/30/2023</td>
     </tr>
     <tr>
-      <th>66</th>
+      <th>72</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Javed Khan</td>
@@ -770,7 +824,7 @@ df
       <td>01/24/2023</td>
     </tr>
     <tr>
-      <th>67</th>
+      <th>73</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Wendy Bickmore</td>
@@ -779,7 +833,7 @@ df
       <td>01/23/2023</td>
     </tr>
     <tr>
-      <th>68</th>
+      <th>74</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Xuchao Zhang</td>
@@ -788,7 +842,7 @@ df
       <td>12/29/2022</td>
     </tr>
     <tr>
-      <th>69</th>
+      <th>75</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Mary Kay Lobo</td>
@@ -797,7 +851,7 @@ df
       <td>11/29/2022</td>
     </tr>
     <tr>
-      <th>70</th>
+      <th>76</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Rongze Olivia Lu</td>
@@ -806,7 +860,7 @@ df
       <td>11/22/2022</td>
     </tr>
     <tr>
-      <th>71</th>
+      <th>77</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Rongze Olivia Lu</td>
@@ -815,7 +869,7 @@ df
       <td>11/22/2022</td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>78</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Kenneth Chen</td>
@@ -824,7 +878,7 @@ df
       <td>11/18/2022</td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>79</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Ju Chen</td>
@@ -833,7 +887,7 @@ df
       <td>11/17/2022</td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>80</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Ju Chen</td>
@@ -842,7 +896,7 @@ df
       <td>11/17/2022</td>
     </tr>
     <tr>
-      <th>75</th>
+      <th>81</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Mary Kay Lobo</td>
@@ -851,7 +905,7 @@ df
       <td>11/02/2022</td>
     </tr>
     <tr>
-      <th>76</th>
+      <th>82</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>JABAUDON Denis</td>
@@ -860,7 +914,7 @@ df
       <td>11/01/2022</td>
     </tr>
     <tr>
-      <th>77</th>
+      <th>83</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>JABAUDON Denis</td>
@@ -869,7 +923,7 @@ df
       <td>11/01/2022</td>
     </tr>
     <tr>
-      <th>78</th>
+      <th>84</th>
       <td>171101</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry (dual gRNA: Olig2 x2)</td>
       <td>JABAUDON Denis</td>
@@ -878,7 +932,7 @@ df
       <td>11/01/2022</td>
     </tr>
     <tr>
-      <th>79</th>
+      <th>85</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Randi G. Syljuåsen</td>
@@ -887,7 +941,7 @@ df
       <td>10/24/2022</td>
     </tr>
     <tr>
-      <th>80</th>
+      <th>86</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Randi G. Syljuåsen</td>
@@ -896,7 +950,7 @@ df
       <td>10/24/2022</td>
     </tr>
     <tr>
-      <th>81</th>
+      <th>87</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Ohad Medalia</td>
@@ -905,7 +959,7 @@ df
       <td>10/17/2022</td>
     </tr>
     <tr>
-      <th>82</th>
+      <th>88</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Clare Blackburn</td>
@@ -914,7 +968,7 @@ df
       <td>10/14/2022</td>
     </tr>
     <tr>
-      <th>83</th>
+      <th>89</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Takahisa Furukawa</td>
@@ -923,7 +977,7 @@ df
       <td>10/14/2022</td>
     </tr>
     <tr>
-      <th>84</th>
+      <th>90</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Per Svenningsen</td>
@@ -932,7 +986,7 @@ df
       <td>10/11/2022</td>
     </tr>
     <tr>
-      <th>85</th>
+      <th>91</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Per Svenningsen</td>
@@ -941,7 +995,7 @@ df
       <td>10/11/2022</td>
     </tr>
     <tr>
-      <th>86</th>
+      <th>92</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Maurice S. Swanson</td>
@@ -950,7 +1004,7 @@ df
       <td>10/10/2022</td>
     </tr>
     <tr>
-      <th>87</th>
+      <th>93</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Virginie Escriou</td>
@@ -959,7 +1013,7 @@ df
       <td>09/28/2022</td>
     </tr>
     <tr>
-      <th>88</th>
+      <th>94</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Virginie Escriou</td>
@@ -968,7 +1022,7 @@ df
       <td>09/28/2022</td>
     </tr>
     <tr>
-      <th>89</th>
+      <th>95</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Mark Emerson</td>
@@ -977,7 +1031,7 @@ df
       <td>09/27/2022</td>
     </tr>
     <tr>
-      <th>90</th>
+      <th>96</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Philippe Arnaud</td>
@@ -986,7 +1040,7 @@ df
       <td>09/20/2022</td>
     </tr>
     <tr>
-      <th>91</th>
+      <th>97</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Philippe Arnaud</td>
@@ -995,7 +1049,7 @@ df
       <td>09/20/2022</td>
     </tr>
     <tr>
-      <th>92</th>
+      <th>98</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Babal Jha</td>
@@ -1004,7 +1058,7 @@ df
       <td>09/07/2022</td>
     </tr>
     <tr>
-      <th>93</th>
+      <th>99</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Babal Jha</td>
@@ -1013,7 +1067,7 @@ df
       <td>09/07/2022</td>
     </tr>
     <tr>
-      <th>94</th>
+      <th>100</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Babal Jha</td>
@@ -1022,7 +1076,7 @@ df
       <td>09/07/2022</td>
     </tr>
     <tr>
-      <th>95</th>
+      <th>101</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Dan Roden, MD</td>
@@ -1031,7 +1085,7 @@ df
       <td>07/19/2022</td>
     </tr>
     <tr>
-      <th>96</th>
+      <th>102</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Jennifer Fraser</td>
@@ -1040,7 +1094,7 @@ df
       <td>07/18/2022</td>
     </tr>
     <tr>
-      <th>97</th>
+      <th>103</th>
       <td>159657</td>
       <td>pX458-Ef1a-Cas9-GFP (gRNA: Ascl1-2)</td>
       <td>Jennifer Fraser</td>
@@ -1049,7 +1103,7 @@ df
       <td>07/18/2022</td>
     </tr>
     <tr>
-      <th>98</th>
+      <th>104</th>
       <td>159658</td>
       <td>pX458-Ef1a-Cas9-GFP (gRNA: Ascl1-3)</td>
       <td>Jennifer Fraser</td>
@@ -1058,7 +1112,7 @@ df
       <td>07/18/2022</td>
     </tr>
     <tr>
-      <th>99</th>
+      <th>105</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Marc Kirschner</td>
@@ -1067,7 +1121,7 @@ df
       <td>07/07/2022</td>
     </tr>
     <tr>
-      <th>100</th>
+      <th>106</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Aaron Zorn</td>
@@ -1076,7 +1130,7 @@ df
       <td>06/30/2022</td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>107</th>
       <td>171102</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry (dual gRNA: Otx2 x2)</td>
       <td>Don W Cleveland</td>
@@ -1085,7 +1139,7 @@ df
       <td>06/14/2022</td>
     </tr>
     <tr>
-      <th>102</th>
+      <th>108</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Avery Posey</td>
@@ -1094,7 +1148,7 @@ df
       <td>05/25/2022</td>
     </tr>
     <tr>
-      <th>103</th>
+      <th>109</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Avery Posey</td>
@@ -1103,7 +1157,7 @@ df
       <td>05/25/2022</td>
     </tr>
     <tr>
-      <th>104</th>
+      <th>110</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>John Anderson</td>
@@ -1112,7 +1166,7 @@ df
       <td>05/19/2022</td>
     </tr>
     <tr>
-      <th>105</th>
+      <th>111</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Jason Watts</td>
@@ -1121,7 +1175,7 @@ df
       <td>05/05/2022</td>
     </tr>
     <tr>
-      <th>106</th>
+      <th>112</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Junyue Cao</td>
@@ -1130,7 +1184,7 @@ df
       <td>04/21/2022</td>
     </tr>
     <tr>
-      <th>107</th>
+      <th>113</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Ganna Panasyuk</td>
@@ -1139,7 +1193,7 @@ df
       <td>04/12/2022</td>
     </tr>
     <tr>
-      <th>108</th>
+      <th>114</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Cedric Blanpain</td>
@@ -1148,7 +1202,7 @@ df
       <td>04/04/2022</td>
     </tr>
     <tr>
-      <th>109</th>
+      <th>115</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Xian Chang Li</td>
@@ -1157,7 +1211,7 @@ df
       <td>03/30/2022</td>
     </tr>
     <tr>
-      <th>110</th>
+      <th>116</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Ann Harris</td>
@@ -1166,7 +1220,7 @@ df
       <td>03/07/2022</td>
     </tr>
     <tr>
-      <th>111</th>
+      <th>117</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Cedric Blanpain</td>
@@ -1175,7 +1229,7 @@ df
       <td>02/22/2022</td>
     </tr>
     <tr>
-      <th>112</th>
+      <th>118</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Srinivas Somarowthu</td>
@@ -1184,7 +1238,7 @@ df
       <td>02/21/2022</td>
     </tr>
     <tr>
-      <th>113</th>
+      <th>119</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Alexander Marson</td>
@@ -1193,7 +1247,7 @@ df
       <td>02/17/2022</td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>120</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Sarita Neupane</td>
@@ -1202,7 +1256,7 @@ df
       <td>02/04/2022</td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>121</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Hank Bass</td>
@@ -1211,7 +1265,7 @@ df
       <td>02/01/2022</td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>122</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Hank Bass</td>
@@ -1220,7 +1274,7 @@ df
       <td>02/01/2022</td>
     </tr>
     <tr>
-      <th>117</th>
+      <th>123</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Alana Welm</td>
@@ -1229,7 +1283,7 @@ df
       <td>01/31/2022</td>
     </tr>
     <tr>
-      <th>118</th>
+      <th>124</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Joost Gribnau</td>
@@ -1238,7 +1292,7 @@ df
       <td>01/26/2022</td>
     </tr>
     <tr>
-      <th>119</th>
+      <th>125</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Joost Gribnau</td>
@@ -1247,7 +1301,7 @@ df
       <td>01/26/2022</td>
     </tr>
     <tr>
-      <th>120</th>
+      <th>126</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Karim Labib</td>
@@ -1256,7 +1310,7 @@ df
       <td>01/24/2022</td>
     </tr>
     <tr>
-      <th>121</th>
+      <th>127</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Karim Labib</td>
@@ -1265,7 +1319,7 @@ df
       <td>01/24/2022</td>
     </tr>
     <tr>
-      <th>122</th>
+      <th>128</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Eric Snyder</td>
@@ -1274,7 +1328,7 @@ df
       <td>01/20/2022</td>
     </tr>
     <tr>
-      <th>123</th>
+      <th>129</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Eric Snyder</td>
@@ -1283,7 +1337,7 @@ df
       <td>01/20/2022</td>
     </tr>
     <tr>
-      <th>124</th>
+      <th>130</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Eric Snyder</td>
@@ -1292,7 +1346,7 @@ df
       <td>01/20/2022</td>
     </tr>
     <tr>
-      <th>125</th>
+      <th>131</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Eric Snyder</td>
@@ -1301,7 +1355,7 @@ df
       <td>01/20/2022</td>
     </tr>
     <tr>
-      <th>126</th>
+      <th>132</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Eric Snyder</td>
@@ -1310,7 +1364,7 @@ df
       <td>01/20/2022</td>
     </tr>
     <tr>
-      <th>127</th>
+      <th>133</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Pier Paolo Scaglioni</td>
@@ -1319,7 +1373,7 @@ df
       <td>01/10/2022</td>
     </tr>
     <tr>
-      <th>128</th>
+      <th>134</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Pier Paolo Scaglioni</td>
@@ -1328,7 +1382,7 @@ df
       <td>01/10/2022</td>
     </tr>
     <tr>
-      <th>129</th>
+      <th>135</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Wade Harper</td>
@@ -1337,7 +1391,7 @@ df
       <td>01/03/2022</td>
     </tr>
     <tr>
-      <th>130</th>
+      <th>136</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Wade Harper</td>
@@ -1346,7 +1400,7 @@ df
       <td>01/03/2022</td>
     </tr>
     <tr>
-      <th>131</th>
+      <th>137</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Dr. Michael Witcher</td>
@@ -1355,7 +1409,7 @@ df
       <td>12/17/2021</td>
     </tr>
     <tr>
-      <th>132</th>
+      <th>138</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Dr. Michael Witcher</td>
@@ -1364,7 +1418,7 @@ df
       <td>12/17/2021</td>
     </tr>
     <tr>
-      <th>133</th>
+      <th>139</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Donald Ingber</td>
@@ -1373,7 +1427,7 @@ df
       <td>11/29/2021</td>
     </tr>
     <tr>
-      <th>134</th>
+      <th>140</th>
       <td>175573</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
       <td>Donald Ingber</td>
@@ -1382,7 +1436,7 @@ df
       <td>11/29/2021</td>
     </tr>
     <tr>
-      <th>135</th>
+      <th>141</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Laurence Pelletier</td>
@@ -1391,7 +1445,7 @@ df
       <td>11/25/2021</td>
     </tr>
     <tr>
-      <th>136</th>
+      <th>142</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Matthew Harris</td>
@@ -1400,7 +1454,7 @@ df
       <td>11/24/2021</td>
     </tr>
     <tr>
-      <th>137</th>
+      <th>143</th>
       <td>175571</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
       <td>Matthew Harris</td>
@@ -1409,7 +1463,7 @@ df
       <td>11/24/2021</td>
     </tr>
     <tr>
-      <th>138</th>
+      <th>144</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Matthew Harris</td>
@@ -1418,7 +1472,7 @@ df
       <td>11/24/2021</td>
     </tr>
     <tr>
-      <th>139</th>
+      <th>145</th>
       <td>159654</td>
       <td>pX458-Ef1a-Cas9-H2B-GFP</td>
       <td>Dr. Bhavana M</td>
@@ -1427,117 +1481,63 @@ df
       <td>11/23/2021</td>
     </tr>
     <tr>
-      <th>140</th>
-      <td>159655</td>
-      <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
-      <td>Dr. Bhavana M</td>
-      <td>Institute for Stem Cell Science and Regenerati...</td>
-      <td>INDIA</td>
-      <td>11/23/2021</td>
-    </tr>
-    <tr>
-      <th>141</th>
-      <td>175570</td>
-      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
-      <td>Dr. Bhavana M</td>
-      <td>Institute for Stem Cell Science and Regenerati...</td>
-      <td>INDIA</td>
-      <td>11/23/2021</td>
-    </tr>
-    <tr>
-      <th>142</th>
-      <td>175571</td>
-      <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
-      <td>JABAUDON Denis</td>
-      <td>University of Geneva</td>
-      <td>SWITZERLAND</td>
-      <td>11/22/2021</td>
-    </tr>
-    <tr>
-      <th>143</th>
-      <td>175573</td>
-      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
-      <td>JABAUDON Denis</td>
-      <td>University of Geneva</td>
-      <td>SWITZERLAND</td>
-      <td>11/22/2021</td>
-    </tr>
-    <tr>
-      <th>144</th>
-      <td>171098</td>
-      <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
-      <td>Karun Singh</td>
-      <td>University Health Network</td>
-      <td>CANADA</td>
-      <td>11/19/2021</td>
-    </tr>
-    <tr>
-      <th>145</th>
-      <td>175570</td>
-      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
-      <td>Karun Singh</td>
-      <td>University Health Network</td>
-      <td>CANADA</td>
-      <td>11/19/2021</td>
-    </tr>
-    <tr>
       <th>146</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>Dr. Bhavana M</td>
+      <td>Institute for Stem Cell Science and Regenerati...</td>
+      <td>INDIA</td>
+      <td>11/23/2021</td>
     </tr>
     <tr>
       <th>147</th>
-      <td>171098</td>
-      <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>175570</td>
+      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
+      <td>Dr. Bhavana M</td>
+      <td>Institute for Stem Cell Science and Regenerati...</td>
+      <td>INDIA</td>
+      <td>11/23/2021</td>
     </tr>
     <tr>
       <th>148</th>
-      <td>175570</td>
-      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>175571</td>
+      <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
+      <td>JABAUDON Denis</td>
+      <td>University of Geneva</td>
+      <td>SWITZERLAND</td>
+      <td>11/22/2021</td>
     </tr>
     <tr>
       <th>149</th>
-      <td>175571</td>
-      <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>175573</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
+      <td>JABAUDON Denis</td>
+      <td>University of Geneva</td>
+      <td>SWITZERLAND</td>
+      <td>11/22/2021</td>
     </tr>
     <tr>
       <th>150</th>
-      <td>175572</td>
-      <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>171098</td>
+      <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
+      <td>Karun Singh</td>
+      <td>University Health Network</td>
+      <td>CANADA</td>
+      <td>11/19/2021</td>
     </tr>
     <tr>
       <th>151</th>
-      <td>175573</td>
-      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
-      <td>Cedric Blanpain</td>
-      <td>Universite Libre de Bruxelles</td>
-      <td>BELGIUM</td>
-      <td>11/18/2021</td>
+      <td>175570</td>
+      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
+      <td>Karun Singh</td>
+      <td>University Health Network</td>
+      <td>CANADA</td>
+      <td>11/19/2021</td>
     </tr>
     <tr>
       <th>152</th>
-      <td>175574</td>
-      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
+      <td>159655</td>
+      <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Cedric Blanpain</td>
       <td>Universite Libre de Bruxelles</td>
       <td>BELGIUM</td>
@@ -1547,13 +1547,67 @@ df
       <th>153</th>
       <td>171098</td>
       <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>154</th>
+      <td>175570</td>
+      <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>155</th>
+      <td>175571</td>
+      <td>pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa)</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>156</th>
+      <td>175572</td>
+      <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>157</th>
+      <td>175573</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi)</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>158</th>
+      <td>175574</td>
+      <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
+      <td>Cedric Blanpain</td>
+      <td>Universite Libre de Bruxelles</td>
+      <td>BELGIUM</td>
+      <td>11/18/2021</td>
+    </tr>
+    <tr>
+      <th>159</th>
+      <td>171098</td>
+      <td>pX458-Dual-Guide-Donor-ShuttleOnly</td>
       <td>Kimberly Stegmaier</td>
       <td>Dana-Farber Cancer Institute</td>
       <td>UNITED STATES</td>
       <td>11/13/2021</td>
     </tr>
     <tr>
-      <th>154</th>
+      <th>160</th>
       <td>175570</td>
       <td>pX458-Dual-Guide-Donor-Cas9-H2B-mCherry</td>
       <td>Kimberly Stegmaier</td>
@@ -1562,7 +1616,7 @@ df
       <td>11/13/2021</td>
     </tr>
     <tr>
-      <th>155</th>
+      <th>161</th>
       <td>175572</td>
       <td>pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa)</td>
       <td>Clare Blackburn</td>
@@ -1571,7 +1625,7 @@ df
       <td>11/05/2021</td>
     </tr>
     <tr>
-      <th>156</th>
+      <th>162</th>
       <td>175574</td>
       <td>pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi)</td>
       <td>Clare Blackburn</td>
@@ -1580,7 +1634,7 @@ df
       <td>11/05/2021</td>
     </tr>
     <tr>
-      <th>157</th>
+      <th>163</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Joel Miesfeld</td>
@@ -1589,7 +1643,7 @@ df
       <td>09/07/2021</td>
     </tr>
     <tr>
-      <th>158</th>
+      <th>164</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Joe Corbo</td>
@@ -1598,7 +1652,7 @@ df
       <td>07/26/2021</td>
     </tr>
     <tr>
-      <th>159</th>
+      <th>165</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Olivia Rossanese</td>
@@ -1607,7 +1661,7 @@ df
       <td>05/27/2021</td>
     </tr>
     <tr>
-      <th>160</th>
+      <th>166</th>
       <td>159655</td>
       <td>pX458-Ef1a-Cas9-H2B-mCherry</td>
       <td>Alexander van Oudenaarden</td>
