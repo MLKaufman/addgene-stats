@@ -1,7 +1,14 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),George Church,Harvard Medical School,UNITED STATES,10/17/2024
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Lien Nguyen,University of Florida,UNITED STATES,10/16/2024
+159654,pX458-Ef1a-Cas9-H2B-GFP,William Berry,University of Oklahoma Health Sciences Center,UNITED STATES,09/18/2024
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Tomas Gonzalez-Fernandez,Lehigh University,UNITED STATES,09/06/2024
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Christopher Ng,University of Colorado Denver and Anschutz Medical Campus,UNITED STATES,08/21/2024
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Joanna R Morris,University of Birmingham,UNITED KINGDOM,08/21/2024
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Miguel Ramalho-Santos,Sinai Health System,CANADA,08/16/2024
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Phillip Grote,Georg-Speyer-Haus,GERMANY,08/02/2024
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Tadahiro Suenaga,Kitasato University,JAPAN,07/25/2024
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Tadahiro Suenaga,Kitasato University,JAPAN,07/25/2024
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Monica Vetter,University of Utah,UNITED STATES,07/23/2024
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Anna Blakney,University of British Columbia,CANADA,07/11/2024
 175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Tomasz Nowakowski,"University of California, San Francisco (UCSF)",UNITED STATES,07/03/2024
