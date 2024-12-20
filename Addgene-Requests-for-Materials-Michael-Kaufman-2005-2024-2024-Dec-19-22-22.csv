@@ -1,10 +1,19 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Rongze Olivia Lu,"University of California, San Francisco (UCSF)",UNITED STATES,12/12/2024
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Julian Downward,Francis Crick Institute,UNITED KINGDOM,11/25/2024
+159659,pX458-Ef1a-Cas9-H2B-mCherry (gRNA: Neurog2-1),Monica Vetter,University of Utah,UNITED STATES,11/12/2024
+159660,pX458-Ef1a-Cas9-H2B-mCherry (gRNA: Neurog2-2),Monica Vetter,University of Utah,UNITED STATES,11/12/2024
+159661,pX458-Ef1a-Cas9-H2B-mCherry (gRNA: Neurog2-3),Monica Vetter,University of Utah,UNITED STATES,11/12/2024
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Timothy Cherry,Seattle Children's Hospital and Research Institute,UNITED STATES,11/04/2024
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Tomas Gonzalez-Fernandez,Lehigh University,UNITED STATES,11/01/2024
+159654,pX458-Ef1a-Cas9-H2B-GFP,Lien Nguyen,University of Florida,UNITED STATES,11/01/2024
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Tuncay Baubec,Utrecht University,NETHERLANDS,10/23/2024
 159654,pX458-Ef1a-Cas9-H2B-GFP,Bob Chow,University of Victoria,CANADA,10/22/2024
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Bob Chow,University of Victoria,CANADA,10/22/2024
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Bob Chow,University of Victoria,CANADA,10/22/2024
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),George Church,Harvard Medical School,UNITED STATES,10/17/2024
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Lien Nguyen,University of Florida,UNITED STATES,10/16/2024
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Megan Norris,"University of California, Riverside",UNITED STATES,10/11/2024
 159654,pX458-Ef1a-Cas9-H2B-GFP,William Berry,University of Oklahoma Health Sciences Center,UNITED STATES,09/18/2024
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Tomas Gonzalez-Fernandez,Lehigh University,UNITED STATES,09/06/2024
 175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Christopher Ng,University of Colorado Denver and Anschutz Medical Campus,UNITED STATES,08/21/2024
