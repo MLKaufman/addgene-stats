@@ -1,4 +1,10 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Jichao Chen,Cincinnati Children's Hospital Medical Center,UNITED STATES,01/31/2025
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Luc Teyton,Scripps California (The Scripps Research Institute),UNITED STATES,01/09/2025
 175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Rongze Olivia Lu,"University of California, San Francisco (UCSF)",UNITED STATES,12/12/2024
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Julian Downward,Francis Crick Institute,UNITED KINGDOM,11/25/2024
 159659,pX458-Ef1a-Cas9-H2B-mCherry (gRNA: Neurog2-1),Monica Vetter,University of Utah,UNITED STATES,11/12/2024
@@ -74,8 +80,8 @@ ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordere
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Kellie Lucken,University of Nottingham,UNITED KINGDOM,05/05/2023
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Kellie Lucken,University of Nottingham,UNITED KINGDOM,05/05/2023
 175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Magda Bienko,Human Technopole,ITALY,04/27/2023
-159654,pX458-Ef1a-Cas9-H2B-GFP,Attila Aszodi,Klinikum der Ludwig Maximilians-Universitaet Muenchen (KUM),GERMANY,04/25/2023
-159655,pX458-Ef1a-Cas9-H2B-mCherry,Attila Aszodi,Klinikum der Ludwig Maximilians-Universitaet Muenchen (KUM),GERMANY,04/25/2023
+159654,pX458-Ef1a-Cas9-H2B-GFP,Attila Aszodi,Klinikum der Ludwig Maximilians-Universitaet Muenchen,GERMANY,04/25/2023
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Attila Aszodi,Klinikum der Ludwig Maximilians-Universitaet Muenchen,GERMANY,04/25/2023
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Nham Tran,"University of Technology, Sydney",AUSTRALIA,04/18/2023
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Titia de Lange,Rockefeller University,UNITED STATES,04/03/2023
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Katalin Susztak,University of Pennsylvania,UNITED STATES,03/28/2023
