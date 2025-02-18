@@ -1,4 +1,9 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Jacob Corn,ETH Zurich (Swiss Federal Institute of Technology),SWITZERLAND,02/10/2025
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Jacob Corn,ETH Zurich (Swiss Federal Institute of Technology),SWITZERLAND,02/10/2025
+159654,pX458-Ef1a-Cas9-H2B-GFP,Marc Ladanyi,Memorial Sloan-Kettering Cancer Center,UNITED STATES,02/05/2025
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Marc Ladanyi,Memorial Sloan-Kettering Cancer Center,UNITED STATES,02/05/2025
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Wen H. Shen,"Cornell University, Weill Medical College",UNITED STATES,02/05/2025
 175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Jichao Chen,Cincinnati Children's Hospital Medical Center,UNITED STATES,01/31/2025
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Amy Brock,University of Texas at Austin,UNITED STATES,01/27/2025
@@ -142,7 +147,7 @@ ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordere
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Junyue Cao,Rockefeller University,UNITED STATES,04/21/2022
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Ganna Panasyuk,"INSERM U1151, Institute Necker Enfants Malades",FRANCE,04/12/2022
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Cedric Blanpain,Universite Libre de Bruxelles,BELGIUM,04/04/2022
-175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Xian Chang Li,The Methodist Hospital Research Institute,UNITED STATES,03/30/2022
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Xian Chang Li,Houston Methodist,UNITED STATES,03/30/2022
 175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Ann Harris,Case Western Reserve University,UNITED STATES,03/07/2022
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Cedric Blanpain,Universite Libre de Bruxelles,BELGIUM,02/22/2022
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Srinivas Somarowthu,Drexel University,UNITED STATES,02/21/2022
