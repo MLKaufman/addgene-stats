@@ -1,4 +1,13 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+159654,pX458-Ef1a-Cas9-H2B-GFP,Edward Levine,Vanderbilt University Medical Center,UNITED STATES,03/06/2025
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Lorenz Studer,Memorial Sloan-Kettering Cancer Center,UNITED STATES,03/05/2025
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Lorenz Studer,Memorial Sloan-Kettering Cancer Center,UNITED STATES,03/05/2025
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Raymond LAM,City University of Hong Kong,HONG KONG,03/02/2025
+159654,pX458-Ef1a-Cas9-H2B-GFP,Talya Dayton,"European Molecular Biology Laboratory (EMBL), Barcelona",SPAIN,02/19/2025
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Talya Dayton,"European Molecular Biology Laboratory (EMBL), Barcelona",SPAIN,02/19/2025
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Guillermina Lopez Bendito,Instituto de Neurociencias de Alicante,SPAIN,02/19/2025
+159655,pX458-Ef1a-Cas9-H2B-mCherry,Ruslan Medzhitov,Yale University,UNITED STATES,02/13/2025
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Ruslan Medzhitov,Yale University,UNITED STATES,02/13/2025
 175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Jacob Corn,ETH Zurich (Swiss Federal Institute of Technology),SWITZERLAND,02/10/2025
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Jacob Corn,ETH Zurich (Swiss Federal Institute of Technology),SWITZERLAND,02/10/2025
 159654,pX458-Ef1a-Cas9-H2B-GFP,Marc Ladanyi,Memorial Sloan-Kettering Cancer Center,UNITED STATES,02/05/2025
