@@ -26,7 +26,7 @@ md("# Total number of lab plasmids requested: {} as of {}.".format(number, last_
 
 
 
-# Total number of lab plasmids requested: 209 as of 03/06/2025.
+# Total number of lab plasmids requested: 220 as of 05/05/2025.
 
 
 
