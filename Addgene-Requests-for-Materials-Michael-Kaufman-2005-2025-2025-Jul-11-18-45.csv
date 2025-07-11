@@ -1,6 +1,19 @@
 ID,Material,Requesting PI,Requesting Organization,Requesting Country,Date Ordered
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Yi Arial Zeng,CAS Center for Excellence in Molecular Cell Science,CHINA,07/01/2025
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Sara Mercurio,Universita degli Studi di Milano-Bicocca,ITALY,07/01/2025
+175572,pX458-Ef1a-dCas9-VPR-H2B-mCherry (CRISPRa),Sara Mercurio,Universita degli Studi di Milano-Bicocca,ITALY,07/01/2025
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Sara Mercurio,Universita degli Studi di Milano-Bicocca,ITALY,07/01/2025
+175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Sara Mercurio,Universita degli Studi di Milano-Bicocca,ITALY,07/01/2025
+175571,pX458-Ef1a-dCas9-VPR-H2B-GFP (CRISPRa),Shogo Takashiba,Okayama University,JAPAN,06/09/2025
+175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Shogo Takashiba,Okayama University,JAPAN,06/09/2025
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Vadim Arshavsky,Duke University,UNITED STATES,05/19/2025
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Carlos Guardia,National Institute of Environmental Health Sciences (NIEHS),UNITED STATES,05/14/2025
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Ranjan Perera,Johns Hopkins University and School of Medicine,UNITED STATES,05/08/2025
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Daniel Kass,"University of Pittsburgh (University, School of Medicine, and Cancer Institute)",UNITED STATES,05/07/2025
 175573,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-GFP (CRISPRi),Pamela Hoodless,British Columbia Cancer Agency,CANADA,05/05/2025
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Pamela Hoodless,British Columbia Cancer Agency,CANADA,05/05/2025
+171098,pX458-Dual-Guide-Donor-ShuttleOnly,Nouf Laqtom,King Abdullah University of Science and Technology (KAUST),SAUDI ARABIA,04/29/2025
+175570,pX458-Dual-Guide-Donor-Cas9-H2B-mCherry,Nouf Laqtom,King Abdullah University of Science and Technology (KAUST),SAUDI ARABIA,04/29/2025
 175574,pX458-Ef1a-dCas9-KRAB-MECP2-H2B-mCherry (CRISPRi),Jason Chua,Johns Hopkins University and School of Medicine,UNITED STATES,04/16/2025
 159655,pX458-Ef1a-Cas9-H2B-mCherry,Miguel Ramalho-Santos,Sinai Health System,CANADA,04/16/2025
 171098,pX458-Dual-Guide-Donor-ShuttleOnly,Ong Choon kIat,National Cancer Centre (SG),SINGAPORE,04/10/2025
